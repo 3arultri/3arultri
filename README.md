@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @3arultri
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @3arultri and im not a bot.
+- 👀 I’m interested in antrophology
+- 🌱 I’m currently learning hodric magic
+- 💞️ I’m looking to collaborate on this guild 
 
-<!---
-3arultri/3arultri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
