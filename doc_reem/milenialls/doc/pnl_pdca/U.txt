@@ -1,0 +1,6 @@
+[+U]
+=> selection 1   
+=> selection 3
+=> pom
+=> wes
+=> doc

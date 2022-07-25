@@ -1,0 +1,24 @@
+EAP: #####################################----------------------------------------
+
+Por fazer: (ciclo de vida)                --inicio e termino de vida do projeto---  
+ciclo de vida 0 - assignments research    ----------------------------------------  
+
+ 
+Por entregar:                             --postagem do software principal--------   
+(# TODO)                                  --tarefa=to-do=a-fazer------------------    
+# entrega 1 - runas de Néztem             --pagina-em-html------------------------
+
+
+Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-------------
+# - artigos                               --aguardando-deploy---------------------   
+# - item                                  --aguardando-dev------------------------
+# - doc                                   --aguardando-backlog--------------------
+
+
+
+todo                                      --tarefa--------------------------------  
+# entrega 1
+
+
+tipo: digitada.                            --tipificaçao-------------------------- 
+################################################################################## 
